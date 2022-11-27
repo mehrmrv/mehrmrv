@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mehr
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PYTHON
